@@ -1,3 +1,10 @@
+**********************
+Database Configuration
+**********************
+
+https://www.db4free.net/phpMyAdmin/
+
+
 *********************
 Development Resources
 *********************
