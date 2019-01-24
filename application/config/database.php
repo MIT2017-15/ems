@@ -75,10 +75,10 @@ $query_builder = TRUE;
 
 $db['default'] = array(
 	'dsn'	=> '',
-	'hostname' => 'localhost',
-	'username' => 'root',
-	'password' => 'lakmal',
-	'database' => 'ems',
+	'hostname' => 'db4free.net:3306',
+	'username' => 'ems_mit_2018',
+	'password' => 'lakmallakmal',
+	'database' => 'ems_mit_2018',
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,
@@ -94,3 +94,4 @@ $db['default'] = array(
 	'failover' => array(),
 	'save_queries' => TRUE
 );
+
