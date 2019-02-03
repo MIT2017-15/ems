@@ -59,6 +59,9 @@
             <li class="nav-item">
               <a class="nav-link" href="<?php echo base_url(); ?>login">User Login</a>
             </li>
+            <li class="nav-item">
+              <a class="nav-link" href="<?php echo base_url(); ?>register">Register</a>
+            </li>
             <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="download">Food and Catering Management<span class="caret"></span></a>
               <div class="dropdown-menu" aria-labelledby="download">
